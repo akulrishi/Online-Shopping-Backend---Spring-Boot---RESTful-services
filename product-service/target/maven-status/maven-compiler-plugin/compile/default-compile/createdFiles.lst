@@ -1,0 +1,10 @@
+com\Akul\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\Akul\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\Akul\productservice\model\Product$ProductBuilder.class
+com\Akul\productservice\service\ProductService.class
+com\Akul\productservice\repository\ProductRepository.class
+com\Akul\productservice\ProductServiceApplication.class
+com\Akul\productservice\controller\ProductController.class
+com\Akul\productservice\dto\ProductResponse.class
+com\Akul\productservice\dto\ProductRequest.class
+com\Akul\productservice\model\Product.class

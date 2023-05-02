@@ -1,0 +1,8 @@
+A:\inventory-service\online-shopping-project\order-service\src\main\java\com\Akul\orderservice\dto\OrderRequest.java
+A:\inventory-service\online-shopping-project\order-service\src\main\java\com\Akul\orderservice\model\OrderLineItems.java
+A:\inventory-service\online-shopping-project\order-service\src\main\java\com\Akul\orderservice\dto\OrderLineItemsDto.java
+A:\inventory-service\online-shopping-project\order-service\src\main\java\com\Akul\orderservice\OrderServiceApplication.java
+A:\inventory-service\online-shopping-project\order-service\src\main\java\com\Akul\orderservice\model\Order.java
+A:\inventory-service\online-shopping-project\order-service\src\main\java\com\Akul\orderservice\controller\OrderController.java
+A:\inventory-service\online-shopping-project\order-service\src\main\java\com\Akul\orderservice\service\OrderService.java
+A:\inventory-service\online-shopping-project\order-service\src\main\java\com\Akul\orderservice\repository\OrderRepository.java
