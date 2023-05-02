@@ -1,5 +1,0 @@
-com\Akul\inventoryservice\repository\InventoryRepository.class
-com\Akul\inventoryservice\service\InventoryService.class
-com\Akul\inventoryservice\model\Inventory.class
-com\Akul\inventoryservice\controller\InventoryController.class
-com\Akul\inventoryservice\InventoryServiceApplication.class

@@ -1,8 +1,0 @@
-com\Akul\orderservice\model\Order.class
-com\Akul\orderservice\dto\OrderLineItemsDto.class
-com\Akul\orderservice\service\OrderService.class
-com\Akul\orderservice\dto\OrderRequest.class
-com\Akul\orderservice\repository\OrderRepository.class
-com\Akul\orderservice\OrderServiceApplication.class
-com\Akul\orderservice\controller\OrderController.class
-com\Akul\orderservice\model\OrderLineItems.class
